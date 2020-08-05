@@ -1,4 +1,4 @@
-# starter
+# Jekyll-rtd-theme.start.md
 The new repository will generate with the same files and folders from [rundocs/starter][repo], You can [preview the theme to see what it looks like][preview], or even [generate it today][generate].
 
 ## start
