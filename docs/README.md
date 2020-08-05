@@ -2,6 +2,6 @@
 sort: 1
 ---
 
-# I am docs folder
+# doc
 
 {% include list.liquid all=true %}
