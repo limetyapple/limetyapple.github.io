@@ -1,7 +1,7 @@
 ---
-sort: 2
+sort: 1
 ---
 
-# doc
+# 测试目录2
 
 {% include list.liquid all=true %}
